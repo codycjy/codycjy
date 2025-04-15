@@ -26,6 +26,3 @@ Hi, I'm a student at Carnegie Mellon University (CMU) with a passion for full st
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codycjy&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="codycjy" /></p>  
-  
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codycjy" alt="codycjy" /></a> </p>  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codycjy&" alt="codycjy" /></p>
