@@ -1,15 +1,7 @@
 
 Hi, I'm a student at Carnegie Mellon University (CMU) with a passion for full stack development!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codycjy&label=Profile%20views&color=0e75b6&style=flat" alt="codycjy" /> </p>  
-  
-  
-- 🔭 I’m currently working on [MIT 6.824](https://github.com/codycjy/6.824)  
-  
-- 🌱 I’m currently learning **Data analysis**  **Deep Learning**
-  
-- 👯 I’m looking to collaborate on [House of Daena](https://github.com/Furffico/House-of-Daena)  
-  
-- 🤝 I’m looking for help with [Galaxy Empire Helper](https://github.com/codycjy/GalaxyEmpireWeb)  
+
   
 - 📫 How to reach me **cody741963@hotmail.com**  
   
